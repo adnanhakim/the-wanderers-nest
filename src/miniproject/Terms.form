@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+    <Property name="resizable" type="boolean" value="false"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+    <AuxValue name="designerSize" type="java.awt.Dimension" value="-84,-19,0,5,115,114,0,18,106,97,118,97,46,97,119,116,46,68,105,109,101,110,115,105,111,110,65,-114,-39,-41,-84,95,68,20,2,0,2,73,0,6,104,101,105,103,104,116,73,0,5,119,105,100,116,104,120,112,0,0,1,-62,0,0,3,32"/>
+  </AuxValues>
+
+  <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+    <Property name="useNullLayout" type="boolean" value="false"/>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel2">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="cc" green="cc" red="cc" type="rgb"/>
+        </Property>
+        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+          <Border info="org.netbeans.modules.form.compat2.border.TitledBorderInfo">
+            <TitledBorder justification="2" title="Terms &amp; Conditions">
+              <Border PropertyName="innerBorder" info="org.netbeans.modules.form.compat2.border.SoftBevelBorderInfo">
+                <BevelBorder bevelType="1"/>
+              </Border>
+              <Font PropertyName="font" name="Cambria Math" size="14" style="0"/>
+              <Color PropertyName="color" blue="0" green="0" red="ff" type="rgb"/>
+            </TitledBorder>
+          </Border>
+        </Property>
+        <Property name="toolTipText" type="java.lang.String" value=""/>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="120" y="50" width="550" height="310"/>
+        </Constraint>
+      </Constraints>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+        <Property name="useNullLayout" type="boolean" value="false"/>
+      </Layout>
+      <SubComponents>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="33" green="ff" red="ff" type="rgb"/>
+            </Property>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="null"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="80" green="ee" red="0" type="rgb"/>
+            </Property>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="10" y="20" width="530" height="280"/>
+            </Constraint>
+          </Constraints>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTextArea" name="jTextArea1">
+              <Properties>
+                <Property name="columns" type="int" value="20"/>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="33" green="ff" red="ff" type="rgb"/>
+                </Property>
+                <Property name="lineWrap" type="boolean" value="true"/>
+                <Property name="rows" type="int" value="5"/>
+                <Property name="text" type="java.lang.String" value="By proceeding with the reservation you accept and agree with The Wanderer&#x2019;s Nest Pvt Ltd (the Hotel) that the reservation (details of which are set out above), if accepted by us, shall be on the terms and conditions as follows:&#xa;&#xa;ELIGIBLE AGE FOR CHECK-IN&#xa;&#x2022; You must be at least 18 years of age to check-in and register for a room.&#xa;&#xa;CHECK-IN AND CHECK-OUT TIME  &#xa;&#x2022; Check-in time is from 3:00pm and check-out time is by 11:00am.&#xa;&#x2022; A valid government-issued identification or passport is required at check-in.&#xa;&#xa;EARLY ARRIVAL AND LATE DEPARTURE&#xa;&#x2022; Should you arrive at the hotel prior to the normal check-in time, you are advised to approach the Hotel&apos;s Guest Services Desk for assistance in storing your luggage until check-in is available. If arriving early, you are also advised to consider making a reservation for the evening prior to your arrival.&#xa;&#x2022; Late check-outs are available on request subject to room availability and occupancy level.&#xa;&#x2022; Please check with the Hotel&apos;s Front Desk at least 24 hours prior to your departure on availability of late check-out. A half-day room charge may be incurred for late check-out between 12pm to 6pm and a full day room charge may be incurred for late check-out after 6pm.&#xa;&#xa;CREDIT CARD CONFIRMATION&#xa;&#x2022; A valid credit card is required for all reservations to secure your reservation.&#xa;&#x2022; Upon reservation, credit card will be charged for the amount indicated on the booking confirmation page and email.&#xa;&#x2022; The Hotel accepts Visa, Mastercard, American Express, and JCB credit cards. Debit Cards are not accepted. China Union Pay is also accepted.&#xa;&#x2022; With effect from 15 January 2015, Diners Club credit cards will no longer be accepted for Hotel and other ancillary services as a mode of payment.&#xa;&#x2022; Exchange rates are applicable at time of reservation, but are subject to currency fluctuations and billing will be at the prevailing exchange rate upon completion of your stay.&#xa;&#xa;CANCELLATION POLICY&#xa;&#x2022; Reservations made over 11-16 Sep 2018, 28-31 Dec 2018, 1-4 Jan 2019, 8-10 Aug 2019 and 28 Dec 2019 - 4 Jan 2020 require full pre-payment and are non-cancellable, non-amendable and non-refundable. The entire period of your stay, inclusive of nights before and after the dates listed above, will be charged to your credit card upon reservation.&#xa;&#x2022; Cancellation of and/or amendments to your reservation must be made 48 hours (i.e., by 4pm Singapore time) prior to your arrival date.&#xa;&#x2022; Cancellation or amendment made within 48 hours of arrival will incur a cancellation fee of one night&apos;s room charge (inclusive of any applicable prevailing government tax).&#xa;&#x2022; In the event of no-show, a fee of one night&apos;s room charge (inclusive of any applicable prevailing government tax) will be charged to your credit card provided at the time of reservation.&#xa;&#xa;GROUP RESERVATIONS&#xa;&#x2022; For reservations for groups of 10 rooms and above, please email the Hotel at groups@marinabaysands.com.&#xa;&#xa;SANDS REWARDS&#xa;&#x2022; Membership card must be presented personally at the point of purchase or redemption.&#xa;&#x2022; There is no refund or retroactive credit for all Sands Rewards transactions.&#xa;&#x2022; Patrons must be at least 21 years of age to join.&#xa;&#x2022; Sands Rewards outlets are subject to change without prior notice.&#xa;&#x2022; Earning of rewards is only available for selected shows at Sands Theatre and is unavailable at ArtScience Museum, Sampan Rides, Digital Light Canvas, SkyPark Observation Deck and Sands Expo and Convention Centre.&#xa;&#x2022; Other Terms and Conditions apply. &#xa;&#xa;CHILD BREAKFAST CHARGE&#xa;&#x2022; All rooms and suite rates do not include child breakfast charge. Child breakfast charge is applicable for any child between 6-12 years old. Breakfast for children 5 years and under is free. Child breakfast is chargeable to guest account at walk-in price upon consumption.&#xa;&#xa;FURTHER INFORMATION&#xa;&#x2022; In proceeding with the reservation, you further agree to allow Marina Bay Sands and its agents to collect, use and disclose to any of its related corporations (as defined in the Companies Act (Cap. 50), its agents and its third party service providers (including those outside of Singapore) your personal data for the purposes of (i) administering, managing and maintaining your customer relationship with us; (ii) MBS and its affiliates complying with any applicable law, governmental or regulatory requirements, or request or direction of any governmental authority of any relevant jurisdiction; and (iii) other business related purposes of MBS and its affiliates.&#xa;&#x2022; You may unsubscribe to any such email at any time upon receipt of the said email.&#xa;&#x2022; No gatherings and parties of any nature are allowed. The hotel reserves the right to evict any additional occupants in the room.&#xa;&#x2022; No prepared food from sources other than the Hotel&apos;s in-room dining services is permitted in the guest rooms.&#xa;&#x2022; This reservation is not transferable. No name change is allowed.&#xa;&#xa;GENERAL PROVISIONS&#xa;&#x2022; By proceeding with the reservation, you further agree and acknowledge that if the reservation is accepted by the Hotel, your stay subsequently shall be subject to the Hotel&apos;s standard terms and conditions of stay.&#xa;&#x2022; The Hotel may, at its absolute discretion, cancel the reservation if the Hotel is of the opinion that the reservation information provided is falsified or incomplete.&#xa;&#x2022; The Hotel shall be entitled to vary, amend and/or otherwise change these terms and conditions at any time without prior notice.&#xa;&#x2022; You shall indemnify and hold the Hotel harmless in respect of any liability, loss, damage, cost and expense of any nature arising out of, and/or in connection with the acceptance of the reservation by the Hotel.&#xa;&#x2022; The Hotel shall not be liable for any losses, damages, costs or expenses incurred by you as a result of any cancellation of the reservation by the Hotel.&#xa;&#x2022; The reservation and the terms and conditions set out hereto shall be governed in accordance with the law of the Republic of Singapore.&#xa;&#x2022; The Contracts (Rights of Third Parties) Act ((Cap. 53B) shall apply.&#xa;&#xa;"/>
+                <Property name="wrapStyleWord" type="boolean" value="true"/>
+                <Property name="autoscrolls" type="boolean" value="false"/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Text Cursor"/>
+                </Property>
+                <Property name="disabledTextColor" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="33" green="33" red="33" type="rgb"/>
+                </Property>
+                <Property name="enabled" type="boolean" value="false"/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JButton" name="closebutton">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="HelveticaNeue" size="14" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Close"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="closebuttonActionPerformed"/>
+      </Events>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="360" y="390" width="90" height="30"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="2" name="C:\Users\Riyaz\Desktop\MINI\Term450.jpg"/>
+        </Property>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="0" y="0" width="800" height="450"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+  </SubComponents>
+</Form>
